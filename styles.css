@@ -40,7 +40,7 @@ footer{
     padding: 20px;
 }
 header .logo a{
-    background-image: url("images/logo.png");
+    background-image: url("logo.png");
     background-size: 150px;
     background-repeat: no-repeat;
     display: inline-block;
@@ -51,7 +51,7 @@ header .logo a{
     position: relative;
 }
  section .github a{
-    background-image: url("images/github.png");
+    background-image: url("github.png");
     background-size: 65px;
     background-repeat: no-repeat;
     display: inline-block;
@@ -65,7 +65,7 @@ header .home a{
     font-family: sans-serif;
 }
 header .Py a{
-    background-image: url("images/Python.png");
+    background-image: url("Python.png");
     background-size: 100px;
     background-repeat: no-repeat;
     display: inline-block;
@@ -75,7 +75,7 @@ header .Py a{
     position: relative;
 }
 header .Scratch a{
-    background-image: url("images/Scratch.png");
+    background-image: url("Scratch.png");
     background-size: 100px;
     background-repeat: no-repeat;
     display: inline-block;
